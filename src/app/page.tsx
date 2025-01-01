@@ -11,7 +11,9 @@ export default function Home() {
                 <div className="relative z-10 flex flex-col items-center justify-center text-center px-4 sm:px-6 md:px-8 lg:px-12 py-10 sm:py-16 md:py-24 lg:py-32 my-auto">
                     <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl bg-clip-text text-transparent bg-gradient-to-b from-white to-neutral-400 font-sans font-bold mb-6 sm:mb-8 lg:mb-10">
                         Stay Productive With{" "}
-                        <span className="text-yellow-100">hue</span>
+                        <span className="4sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl bg-clip-text text-transparent bg-gradient-to-b from-white to-yellow-200 font-sans font-bold mb-6 sm:mb-8 lg:mb-10">
+                            hue
+                        </span>
                     </h1>
                     <Button
                         size="lg"
